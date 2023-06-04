@@ -1,0 +1,14 @@
+.Mono,
+.Bee{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.Mono{
+    background-color: black;
+    color: white;
+}
+
+.Bee{
+    background-color: yellow;
+}
